@@ -1,5 +1,3 @@
-# Reduced storage cost strategy in PostgreSQL
-
 # Implement an efficient data layout and retrieval strategy for a Hadoop Cluster
 
 ## Overview & background: 
